@@ -1,7 +1,7 @@
 Composer Extra Files Plugin
 ===========================
 
-This Composer plugin allows you to request additional files to be downloaded with your composer package.
+Composer Extra Files Plugin is brought to you by your friends at [Last Call Media](https://www.lastcallmedia.com), this composer plugin allows you to request additional files to be downloaded with your composer package.
 
 ### When should I use this?
 The most common use case is if you have compiled front-end code, where the compiled version is never committed to a git repository, and therefore isn't registered on packagist.org.  For example, if you want your distributed package to depend on an NPM/Bower package.
